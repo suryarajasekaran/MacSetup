@@ -1,0 +1,2 @@
+# MacSetup
+setting up essentials
