@@ -1,4 +1,4 @@
-#SSHKeys
+# SSHKeys
 
 - Generates SSH keys (creates public & private keys)
     ```
