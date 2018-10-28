@@ -1,4 +1,4 @@
-# SSHKeys
+# SSHKeysSetup
 
 - Generates SSH keys (creates public & private keys)
     ```
@@ -14,3 +14,4 @@
 - Provide the public key by running `cat ~/.ssh/id_rsa.pub`, and drop it in other systems like `git` etc.
 
 - **Never** share `~/.ssh/id_rsa` with anyone
+
